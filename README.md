@@ -10,8 +10,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -74,5 +72,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anlans/Anlans/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:37:49 UTC
+ Last Updated on 30/04/2024 18:38:33 UTC
 <!--END_SECTION:waka-->
