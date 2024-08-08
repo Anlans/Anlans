@@ -10,6 +10,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 120 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -72,5 +74,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anlans/Anlans/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2024 18:41:10 UTC
+ Last Updated on 08/08/2024 18:42:31 UTC
 <!--END_SECTION:waka-->
