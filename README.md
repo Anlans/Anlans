@@ -2,8 +2,6 @@
 ![Anlans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anlans&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -16,45 +14,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                119 commits         ████████░░░░░░░░░░░░░░░░░   31.99 % 
-🌆 Daytime                177 commits         ████████████░░░░░░░░░░░░░   47.58 % 
-🌃 Evening                72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Wednesday                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Thursday                 54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Friday                   103 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Sunday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -72,5 +31,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anlans/Anlans/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:49:03 UTC
+ Last Updated on 02/05/2025 18:48:22 UTC
 <!--END_SECTION:waka-->
