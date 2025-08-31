@@ -2,11 +2,15 @@
 ![Anlans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anlans&rank_icon=github)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -14,6 +18,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                256 commits         █████████░░░░░░░░░░░░░░░░   34.92 % 
+🌆 Daytime                379 commits         █████████████░░░░░░░░░░░░   51.71 % 
+🌃 Evening                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Wednesday                154 commits         █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Friday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Sunday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -31,5 +74,5 @@ R                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anlans/Anlans/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:45:49 UTC
+ Last Updated on 31/08/2025 18:46:05 UTC
 <!--END_SECTION:waka-->
