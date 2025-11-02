@@ -2,7 +2,7 @@
 ![Anlans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anlans&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,5 +33,5 @@ R                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anlans/Anlans/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 18:45:24 UTC
+ Last Updated on 02/11/2025 18:45:07 UTC
 <!--END_SECTION:waka-->
